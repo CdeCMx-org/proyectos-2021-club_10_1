@@ -162,9 +162,3 @@ footer p {
     flex-direction: column;
     background-color: #4D9F8F;
 }
-.meto, .resu, .conclu, .ref div {
-    display: flex;
-    flex-direction: column;
-    /* background-color: #CE5B59; */
-    padding: 50px 80px;
-}
