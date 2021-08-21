@@ -7,9 +7,6 @@ header {
     padding: 0;
     margin: 0;
 } 
-section {
-    margin: 0px 50px 0px 50px;
-}
 footer {
     background-color: #3E3E3E;
     color: white;
@@ -150,9 +147,9 @@ footer p {
     /* background-color: #CE5B59; */
     padding: 20px 80px;
 }
-.meto, .resu, .conclu, .ref{
+.meto, .resu, .conclu {
     margin: 0;
-    padding: 50px 0px;
+    padding: 60px 0px;
     width: 100%;
     height: 100vh;
     text-align: left;
@@ -161,4 +158,19 @@ footer p {
     display: flex;
     flex-direction: column;
     background-color: #4D9F8F;
+}
+.ref {
+    margin: 0;
+    padding: 50px 0px;
+    width: 100%;
+    height: 60vh;
+    text-align: left;
+    color: black;
+    font-family: 'Raleway', sans-serif;
+    display: flex;
+    flex-direction: column;
+    background-color: #4D9F8F;
+}
+.meto div, .resu div, .conclu div, .ref div{
+    padding: 0px 50px;
 }
