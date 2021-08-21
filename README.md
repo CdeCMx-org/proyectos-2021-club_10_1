@@ -10,10 +10,10 @@ El URL generado de tu página lo puedes encontrar en Settings -> Pages.
 ### Introducción  
 
 Describe de qué trata tu proyecto:
-* ¿qué problema vas a abordar?
-* ¿porqué es importante?
-* ¿cómo se relaciona con la **ODS** asignada a tu club? 
-* ¿cómo se relaciona lo aprendido en tu club para resolver el problema que planteaste?
+* ¿Qué problema vas a abordar?
+* ¿Por qué es importante?
+* ¿Cómo se relaciona con la **ODS** asignada a tu club? 
+* ¿Cómo se relaciona lo aprendido en tu club para resolver el problema que planteaste?
 
 ### Métodología
 
