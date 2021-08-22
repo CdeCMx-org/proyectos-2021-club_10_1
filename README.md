@@ -57,16 +57,19 @@ El problema, no son los alimentos de origen marino. Sino el alto consumo y la fa
 El océano aporta el 50 % de nuestro oxígeno, absorbe el 30 % del CO2 producido por las actividades humanas y contiene la mayor biodiversidad del planeta, el océano desempeña una función muy importante para la vida en tierra. La ONU estima que el 40 % de los océanos se ve seriamente afectado por las actividades humanas, por contaminación, sobrepesca o pérdida de hábitats costeros. Más del 50 % del agua residual se vierte directamente en el mar sin tratamiento y el 80 % de los residuos son de plásticos. Uno de los puntos clave para poder hacerle frente a este problema es la responsabilidad ampliada del productor (RAP), el cual traslada a los fabricantes el coste de la gestión de los residuos que generarán los productos que ponen en el mercado. La Unión Europea resume este concepto con el principio de “quien contamina paga”. El objetivo es garantizar que no se generen daños al medioambiente a través de una correcta gestión de los residuos, pero sin que el coste repercuta en la administración y en los ciudadanos que no consumen el producto (AITEX, 2021).
 
 
-“Es una medida esencial, pero a los fabricantes les sigue costando entrar en esta esfera. Hoy el recojo representa a la vez un elemento clave y el punto débil de la cadena de responsabilidad.”
+  “Es una medida esencial, pero a los fabricantes les sigue costando entrar en esta esfera. Hoy el recojo representa a la vez un elemento clave y el punto débil de la cadena de      responsabilidad.”
 
-La contaminación de los océanos, está directamente relacionada con sus actividades de gestión de residuos y de saneamiento de las aguas residuales. Para avanzar en el tema, se debe detener la contaminación (aguas residuales y residuos) que llega de la tierra a mares y océanos. Y pasar de una lógica de economía lineal a una lógica circular, actuando en la interfaz tierra-mar y remontando a la fuente de la contaminación. 
+  La contaminación de los océanos, está directamente relacionada con sus actividades de gestión de residuos y de saneamiento de las aguas residuales. Para avanzar en el tema, se     debe detener la contaminación (aguas residuales y residuos) que llega de la tierra a mares y océanos. Y pasar de una lógica de economía lineal a una lógica circular, actuando en   la interfaz tierra-mar y remontando a la fuente de la contaminación. 
 
-Su enfoque se estructura en tres niveles complementarios:
+  Su enfoque se estructura en tres niveles complementarios:
 
-Tratar los flujos de contaminación terrestre en el litoral y aguas arriba (limpiar la zona de costa, tratar las aguas residuales para limitar los residuos en el mar).
-Prevenir la contaminación marina, diseñando sistemas de prevención y gestión dinámica de los flujos que permitan aumentar la resiliencia de las ciudades y de los territorios.
-Transformar los sistemas de producción y hábitos de consumo para dirigirse hacia una economía circular (VEOLIA, 2018).
-Si bien recoger los plásticos y cualquier tipo de basura que se encuentre en nuestro entorno, no será la solución al problema de mitigar los microplásticos. Tanto los consumidores como los productores, debemos de trabajar en equipo para poder gestionar los recursos naturales en pro a obtener una economía circular para el desarrollo sostenible.
+  1 - Tratar los flujos de contaminación terrestre en el litoral y aguas arriba (limpiar la zona de costa, tratar las aguas residuales para limitar los residuos en el mar).
+  2 - Prevenir la contaminación marina, diseñando sistemas de prevención y gestión dinámica de los flujos que permitan aumentar la resiliencia de las ciudades y de los territorios.
+  3 - Transformar los sistemas de producción y hábitos de consumo para dirigirse hacia una economía circular (VEOLIA, 2018).
+  
+  Si bien recoger los plásticos y cualquier tipo de basura que se encuentre en nuestro entorno, no será la solución al problema de mitigar los microplásticos. Tanto los        
+  consumidores como los productores, debemos de trabajar en equipo para poder gestionar los recursos naturales en pro a obtener una economía circular para el desarrollo      
+  sostenible.
 
 ### Conclusiones
 
