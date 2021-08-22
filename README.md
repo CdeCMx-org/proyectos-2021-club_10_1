@@ -10,11 +10,14 @@ El URL generado de tu página lo puedes encontrar en Settings -> Pages.
 ### Introducción  
 
 Describe de qué trata tu proyecto:
+Horripilandia es una sátira, con fundamento científico dirigido a la crítica y discusión sobre el uso y consumo de plásticos desechables. El objetivo es exponer el escenario actual de contaminación por microplásticos y su impacto económico, con el propósito de modificar y reducir nuestros hábitos de consumo de plástico desechable y adaptarnos a la economía circular.
+
 * ¿Qué problema vas a abordar?
+Abordamos una descripción de lo que representa “Horripilandia: el mundo insostenible”, una crítica a la situación actual con los plásticos desechables, siendo lo opuesto a sostenible. Con ello mostramos cómo se generan y afectan los microplásticos en la producción primaria oceánica desencadenando un desbalance trófico que compromete la salud ecosistémica y humana, generando costos económicos.
 
 
 * ¿Por qué es importante?
-
+La crisis ambiental es responsabilidad de quienes la provocan, en este sentido, presentar la perspectiva actual y futura, nos permite replantearnos nuestras acciones cotidianas. Es importante porque los plásticos desechables no son una necesidad real, sino la fantasía del consumo.
 
 * ¿Cómo se relaciona con la **ODS** asignada a tu club? 
 
