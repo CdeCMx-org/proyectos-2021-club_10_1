@@ -233,3 +233,20 @@ footer p {
     padding: 20px 50px;
     text-align: center;
 }
+.discusion {
+    margin: 0;
+    padding: 60px 0px;
+    width: 100%;
+    height: auto;
+    text-align: left;
+    color: black;
+    font-family: 'Raleway', sans-serif;
+    display: flex;
+    flex-direction: row;
+    background-color: #EB8555;
+}
+.discusion div {
+    width: 100%;
+    padding: 20px 50px;
+    text-align: center;
+}
