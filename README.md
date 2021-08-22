@@ -11,8 +11,18 @@ El URL generado de tu página lo puedes encontrar en Settings -> Pages.
 
 Describe de qué trata tu proyecto:
 * ¿Qué problema vas a abordar?
+
+
 * ¿Por qué es importante?
+
+
 * ¿Cómo se relaciona con la **ODS** asignada a tu club? 
+  En el Club 10: Océanos sustentables para todos, se consideraron 2 Objetivos de Desarrollo Sostenible (ODS), el ODS 11: Ciudades y comunidades sostenibles y el ODS 14: Vida submarina.
+
+Es así, que nuestro proyecto se relaciona directamente con el ODS 11 porque se pretende provocar un consumo y una producción sostenibles derivados de los océanos con la premisa de hacer más y mejor con menos desechos; y con el  ODS 14 porque se aspira a concientizar en la conservación y utilización sostenible de los océanos, mares y la biodiversidad acuática.
+
+En definitiva, somos conscientes de que la salud de los océanos está íntimamente ligada a la salud humana, en ese sentido, el propósito es mitigar cualquier contaminación y acumulación de microplásticos en el ambiente marino.
+
 * ¿Cómo se relaciona lo aprendido en tu club para resolver el problema que planteaste?
 *
 ¿Cómo impactó/impacta en la economía con datos ($)? y ¿Cuál es la perspectiva futura del comercio pesquero?
