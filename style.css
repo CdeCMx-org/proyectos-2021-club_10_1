@@ -138,7 +138,7 @@ footer p {
     color: black;
     font-family: 'Raleway', sans-serif;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     background-color: #4D9F8F;
 }
 .box-intro {
@@ -147,7 +147,7 @@ footer p {
     /* background-color: #CE5B59; */
     padding: 20px 80px;
 }
-.meto, .resu, .conclu {
+.conclu {
     margin: 0;
     padding: 60px 0px;
     width: 100%;
@@ -157,7 +157,19 @@ footer p {
     font-family: 'Raleway', sans-serif;
     display: flex;
     flex-direction: column;
-    background-color: #4D9F8F;
+    background-color: #EB8555;
+}
+.resu {
+    margin: 0;
+    padding: 60px 0px;
+    width: 100%;
+    height: 100vh;
+    text-align: left;
+    color: black;
+    font-family: 'Raleway', sans-serif;
+    display: flex;
+    flex-direction: row;
+    background-color: #CE5B59;
 }
 .ref {
     margin: 0;
@@ -171,6 +183,34 @@ footer p {
     flex-direction: column;
     background-color: #4D9F8F;
 }
-.meto div, .resu div, .conclu div, .ref div{
-    padding: 0px 50px;
+.resu div {
+    width: 50%;
+    padding: 20px 50px;
+    text-align: center;
+}
+.conclu div, .ref div{
+    width: 50%;
+    padding: 20px 50px;
+}
+.meto {
+    margin: 0;
+    padding: 60px 0px;
+    width: 100%;
+    height: 100vh;
+    text-align: left;
+    color: black;
+    font-family: 'Raleway', sans-serif;
+    display: flex;
+    flex-direction: row;
+    background-color: #E3AD4B;
+}
+.meto div {
+    width: 50%;
+    padding: 30px 50px;
+
+}
+.intro div {
+    width: 50%;
+    padding: 30px 50px;
+
 }

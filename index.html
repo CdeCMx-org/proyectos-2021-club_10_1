@@ -45,7 +45,7 @@
     </section>
     
     <section class="intro" id="intro">
-        <div class="box-intro">
+        <div>
             <h1>Introducción</h1>
             <p>
                 <strong>Describe de qué trata tu proyecto:</strong> <br>
@@ -90,17 +90,66 @@
     
             </p>
         </div>
+        <div>
+            <h1>Otr</h1>
+        </div>
     </section>
     <section class="meto" id="meto">
         <div>
                 <h1>Metodología</h1>
-                <p>Meto</p>
+                <p>Con la finalidad de observar si hay correlación entre la
+                    la abundancia del insecto pelágico Halobates, abundancia de microplásticos 
+                    y la abundancia de zooplankton se realizó este estudio exploratorio de 
+                    un dataset público <a href="https://oceaninformatics.ucsd.edu/datazoo/catalogs/ccelter/datasets/213" style="text-decoration: none;">Datazoo</a>
+                    con la finalidad de encontrar correlación entre estás variables y entre las 
+                    latitudes de microplásticos/Halobates y longitudes microplásticos/Halobates, 
+                    siendo relevante para el sector económico.
+                    Se hizo uso de la metodología que ofrece la ciencia de datos para realizar el 
+                    análisis exploratorio.
+                </p>
+        </div>
+        <div>
+            <img src="./metodologia.png" alt="">
         </div>
     </section>
     <section class="resu" id="resu">
         <div>
             <h1>Resultados</h1>
-            <p>Se encontraron los siguientes resultados:</p>
+            <p>
+                Se observa una correlación baja <strong>0.212692</strong> entre la abundancia de microplásticos 
+                y halobates, así como baja correlación entre zooplankton y presencia de halobates 
+                de <strong> 0.212916</strong>, Por otro lado, hay una correlación negativa baja o inversa de -0.060144 
+                entre zooplankton y microplásticos.(fig.1)
+            </p>
+            <p>
+                Las variables que esperamos tengan una correlación sin dependencia, 
+                son Latitude (Âº) Microplastic/Latitude (Âº) Halobates con <strong> 0.302351</strong>, 
+                por otro lado, Longitude (Âº) Microplastic y Longitude (Âº) Halobates 
+                con <strong> 0.879943</strong> con lo que se puede decir que se encuentran microsplásticos 
+                cerca de la misma longitud donde existe la presencia de Halobates.
+                <br>
+                <strong>
+                    NOTA: Para este análisis no utilizaremos la correlación entre 
+                    Latitude (Âº) Microplastic y Longitude (Âº) Microplastic, 
+                    Longitude (Âº) Halobates y Latitude (Âº) Halobates, 
+                    Latitude (Âº) Microplastic y Longitude (Âº) Halobates, 
+                    pues no esperamos que haya correlación entre estas variables.(fig.2)
+                </strong>
+            </p>
+            <p>
+                <strong>El análisis exploratorio se realizó en un notebook de Jupyter y 
+                    puede ser visualizado en el siguiente link 
+                    <a href="https://github.com/CdeCMx-org/proyectos-2021-club_10_1/blob/main/microplastic_proyect.ipynb"
+                        style="text-decoration: none;"
+                    >Ver</a>
+                </strong>
+            </p>
+        </div>
+        <div>
+            <img src="./corr_halo (2).png" alt="fig 1" title="fig. 1"><br>
+            <p>fig. 1</p>
+            <img src="./corr_loglat.png" alt="fig 1" title="fig. 2">
+            <p>fig. 2</p>
         </div>
     </section>
     <section class="conclu" id="conclu">
@@ -136,7 +185,7 @@
         </div>
     </section>
     <footer>
-        <p>Hecho con <i class="fas fa-atom fa-spin"></i> y <i class="fas fa-heart"></i></p>
+        <p>Hecho con <i class="fas fa-atom fa-spin" title="ciencia"></i> y <i class="fas fa-heart" title="amor"></i></p>
     </footer>
 </body>
 </html>
