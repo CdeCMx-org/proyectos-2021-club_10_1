@@ -210,7 +210,27 @@ footer p {
 
 }
 .intro div {
-    width: 50%;
+    width: 100%;
     padding: 30px 50px;
 
+}
+.intro div img {
+    margin: 10px 10px;
+}
+.resumen {
+    margin: 0;
+    padding: 60px 0px;
+    width: 100%;
+    height: auto;
+    text-align: left;
+    color: black;
+    font-family: 'Raleway', sans-serif;
+    display: flex;
+    flex-direction: row;
+    background-color: #E3AD4B;
+}
+.resumen div {
+    width: 50%;
+    padding: 20px 50px;
+    text-align: center;
 }
